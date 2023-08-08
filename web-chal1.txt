@@ -1,0 +1,29 @@
+cybersecurity capture the flag (ctf)
+
+some challenges for Andres Soriano Colleges of Bislig
+CTF organizer: Sir Angel Abellanosa Jr.
+
+web
+
+Title:	 Welcome to Amazing Cloud(100 pts)
+---------------------------------------------------- by orly23
+Amazing Cloud Services (ACS) currently hired you a web developer who is  familiar with basics of PHP. They need you to enter your fullname and email to take you to their headquarters (HQ1) and give you a welcome ticket. However, it seems that the ticket was hidden from sight. Can you find it and continue your journey as their Web Developer ? (flag format: ascbCTF{cont3nt_of_fl4g_h3r3}
+url: [IP here]
+
+flag:
+<input type="hidden" id="custId" name="custId" value="ascbCTF{w3lc0m3_t0_4m4z0n_cl0ud}">
+
+
+NOTE: 
+
+Sir Angel,
+
+Pls copy only the index.html file to your ctfd web server. Keep this text file as your base document for more web challenges.
+
+Enjoy !
+
+Keep safe and God bless !!
+
+Sir Orly
+Aug 8, 2023
+
